@@ -1,0 +1,1 @@
+ASP.Net ve Boostrap ile yapılmış basit bir web sitesidir. Ek olarak admin panelinde kullanıcı ekleme,silme,güncelleme işlemleri yapabilmektedir.Sıradan kullanıcılarda giriş sağlayabilmektedir.Gerçekleştirdiği fonksiyonları SQL ile veri tabanı üzerinde yapmaktadır.
